@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "alertmanager-k8s-operator",
+  "versions": [
+    {
+      "commit": "4f77240c3fe1b78778e7c2fdae8200f82704c251",
+      "tag": "rev262",
+      "parsed_at": "2026-11-08T15:24:30.769863+00:00"
+    }
+  ]
+}
